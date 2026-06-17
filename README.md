@@ -71,3 +71,6 @@ Through this project, I learned:
 - Using slicers for filtering
 - Data visualization
 - Extracting business insights
+
+  Author
+Navya Thalathoti Bioinformatics Student | Aspiring Data Analyst
